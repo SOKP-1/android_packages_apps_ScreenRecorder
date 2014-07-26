@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nagrywanie ekranu</string>
+
+    <string name="notification_recording_title">Nagrywanie ekranu w toku</string>
+
+    <string name="notification_recording_finished_title">Nagranie zostało zapisane</string>
+    <string name="notification_recording_finished_text">Dotknij aby zobaczyć %s</string>
+
+    <string name="notification_recording_error_title">Błąd nagrywania ekranu</string>
+    <string name="notification_recording_error_text">%s</string>
+
+    <string name="notification_video_processing_title">Przetwarzanie nagrania</string>
+
+    <string name="notification_action_stop_recording">Zakończ nagrywać</string>
+    <string name="notification_action_show_touch">Pokaż dotyk</string>
+
+    <string name="error_unable_to_create_directory">Nie udało się utworzyć katalogu wyjścia.</string>
+    <string name="error_external_storage_unavailable">Brak zewnętrznej pamięci.</string>
+    <string name="error_unable_to_start">Nie udało się rozpocząć nagrywania.</string>
+
+</resources>
